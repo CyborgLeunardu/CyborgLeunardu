@@ -12,6 +12,22 @@
 
  <br>
   
+  img {
+
+
+display: block;
+
+
+width: 60%;
+
+
+margin-left: auto;
+
+
+margin-right: auto;
+
+
+}
 
 
 
