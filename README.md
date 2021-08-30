@@ -12,7 +12,7 @@ Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família 
 
    🚀 Tecnologias que usamos:
    
-   Front-end: JavaScript,ReactJs,HTML5 e Css  <img src="/img/logos/js.png" width = 72px height = 72px/>  <img src="/img/logos/react.png" width = 72px height = 72px/> 
+   Front-end: JavaScript,ReactJs,HTML5 e Css  <img src="/img/logos/js.svg" width = 72px height = 72px/>  <img src="/img/logos/react.svg" width = 72px height = 72px/> 
    <img src="/img/logos/html.png" width = 72px height = 72px/>  <img src="/img/logos/css.png" width = 72px height = 72px/> 
    Back:Java, Lua, Shell Script, FreeSwitch, Spring/Rest
    MySql, MariaBD e SQuirreL SQL Client
