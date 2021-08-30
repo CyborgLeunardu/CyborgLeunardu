@@ -5,6 +5,8 @@
 <font color = "#f27435"><h1 align="center">Olá, sejam bem vindos a álcateia! </h1></font>
 
 <div align="center"><img src="https://i.gifer.com/origin/9a/9a7b5dd5f43671afb591e70370b1b5b1.gif"/></div>
+<br>
+<br>
 
 > Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família na Nvoip. Assim, juntos, temos mais força e habilidade de fazer códigos cada vez melhores e maiores, e é ai que reside o nosso poder! 
 
@@ -19,7 +21,7 @@
    <img src="/img/tecnologias/mariadb.svg"/> <img src="/img/tecnologias/eclipse.svg"/> <img src="/img/tecnologias/git.svg"/> 
    <img src="/img/tecnologias/postman.svg"/> <img src="/img/tecnologias/tomcat.svg"/> <img src="/img/tecnologias/auth0.svg"/> <img src="/img/tecnologias/amazon.svg"/> 
    
-   Shell Script, FreeSwitch e SQuirreL SQL Client
+
  
  
  
