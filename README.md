@@ -17,6 +17,7 @@ Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família 
    <img src="/img/tecnologias/node.svg" width = 120px height = 60px/> 
    <img src="/img/tecnologias/html.svg" width = 72px height = 72px/>  
    <img src="/img/tecnologias/css.png" width = 65px height = 65px/> 
+   <img src="/img/tecnologias/java.svg"/> 
    <img src="/img/tecnologias/spring.svg" /> 
    <img src="/img/tecnologias/mysql.svg" /> 
    <img src="/img/tecnologias/eclipse.svg"/> 
