@@ -69,7 +69,7 @@
   
 
   
-   <div id="div-logos" align="center" display: flex; justify-content: center;>
+   <div id="div-logos" align="center" display: inline; justify-content: center;>
    <a href="https://www.nvoip.com.br/" background-color = "white"><img src="/img/redes-sociais/logo-nvoip-simples.png" width = 60px ></a>
    <a href="https://nvoip.docs.apiary.io/#"><img src="/img/redes-sociais/apiary.png" width = 60px ></a>
    <a href="https://www.linkedin.com/company/nvoip/mycompany/"><img src="/img/redes-sociais/linkedin-logo.png" width = 60px ></a>
