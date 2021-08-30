@@ -2,7 +2,7 @@
 
 
 ### 
-<h1 align="center">Olá, sejam bem vindos a álcateia! </h1>
+<h1 align="center" color="orange">Olá, sejam bem vindos a álcateia! </h1>
 
 <div align="center"><img src="https://i.gifer.com/origin/9a/9a7b5dd5f43671afb591e70370b1b5b1.gif"/></div>
 
