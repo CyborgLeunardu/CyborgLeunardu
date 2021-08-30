@@ -1,4 +1,4 @@
-Logo Nvoip, Logo Dos Devs
+![Nvoip Logo](CyborgLeunardu/img/logos/logo-nvoip.png), Logo Dos Devs
 
 
 ### Olá, bem vindos a álcateia! 
