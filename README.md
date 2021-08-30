@@ -6,7 +6,7 @@
 
 <div align="center"><img src="https://i.gifer.com/origin/9a/9a7b5dd5f43671afb591e70370b1b5b1.gif"/></div>
 
-Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família na Nvoip. Assim, juntos, temos mais força e habilidade de fazer códigos cada vez melhores e maiores, e é ai que reside o nosso poder! 
+> Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família na Nvoip. Assim, juntos, temos mais força e habilidade de fazer códigos cada vez melhores e maiores, e é ai que reside o nosso poder! 
 
 
 
