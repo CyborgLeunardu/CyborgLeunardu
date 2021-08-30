@@ -48,19 +48,11 @@
 <h2 align="center">🚀 Redes Sociais </h2>
 
   Fale conosco: 0800 878 3122
+  <br>
     <a href="https://www.nvoip.com.br/" background = "white"><img src="/img/redes-sociais/logo-nvoip-simples.png" height = 40px ></a>
     <a href="https://nvoip.docs.apiary.io/#"><img src="/img/redes-sociais/apiary.png" height = 40px ></a>
    <a href=""><img src="/img/redes-sociais/linkedin-logo.png" height = 40px ></a>
    <a href=""><img src="/img/redes-sociais/facebook-logo.png" height = 40px ></a>
    <a href=""><img src="/img/redes-sociais/instagram-logo.png" height = 40px></a>
    <a href=""><img src="/img/redes-sociais/youtube-logo.png" height = 40px></a>
-  
-  Nossa api: https://nvoip.docs.apiary.io/#
-  Nosso site: https://www.nvoip.com.br/
-  Nosso blog: https://www.nvoip.com.br/blog/
-  Nosso YouTube: https://www.youtube.com/c/Nvoip/videos
-  Instagram: https://www.instagram.com/nvoip/?hl=pt-br
-  Facebook:  https://pt-br.facebook.com/nvoipcloud/
-  Linkedin:  https://www.linkedin.com/company/nvoip/mycompany/
-
 
