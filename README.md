@@ -49,8 +49,8 @@
 
   Fale conosco: 0800 878 3122
   <br>
-    <a href="https://www.nvoip.com.br/" background = "white"><img src="/img/redes-sociais/logo-nvoip-simples.png" height = 40px ></a>
-    <a href="https://nvoip.docs.apiary.io/#"><img src="/img/redes-sociais/apiary.png" height = 40px ></a>
+    <a href="https://www.nvoip.com.br/" background = "white"><img src="/img/redes-sociais/logo-nvoip-simples.png" width = 60px ></a>
+    <a href="https://nvoip.docs.apiary.io/#"><img src="/img/redes-sociais/apiary.png" width = 60px ></a>
    <a href=""><img src="/img/redes-sociais/linkedin-logo.png" height = 40px ></a>
    <a href=""><img src="/img/redes-sociais/facebook-logo.png" height = 40px ></a>
    <a href=""><img src="/img/redes-sociais/instagram-logo.png" height = 40px></a>
