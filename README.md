@@ -1,7 +1,8 @@
 <img src="/img/logos/logo-nvoip.png" width = 188px height = 32px/>  <img src="/img/logos/logo-devs.png" width = 72px height = 72px/>
 
 
-### Olá, bem vindos a álcateia! 
+### 
+<h1 align="center">Olá, sejam bem vindos a álcateia! </h1>
 
 ![gif-alcateia](https://i.gifer.com/origin/9a/9a7b5dd5f43671afb591e70370b1b5b1.gif)
 
