@@ -28,7 +28,7 @@
  
 <div align="center">
 <img src="/img/logos/missao.png" height = 84px/>
-<h3 color="#F27435">Missão</h3>
+<h3 color="F27435">Missão</h3>
 <p>Ser a melhor plataforma de comunicação global, atuando de forma abrangente no mercado nacional e internacional, para isso, nós desenvolvedores sempre estamos pensando em melhorar nosso sistema: implementandos novas funcionalidades, corrigindo bugs e sempre pensando na experiência do nosso usuário.</p>
 </div>
 
