@@ -1,4 +1,4 @@
-<div align="left"><img src="/img/logos/logo-nvoip.png" width = 188px height = 32px/>  <img src="/img/logos/logo-devs.png" width = 72px height = 72px/></div>
+<div align="center"><img src="/img/logos/logo-nvoip.png" width = 188px height = 32px/>  <img src="/img/logos/logo-devs.png" width = 72px height = 72px/></div>
 
 
 
