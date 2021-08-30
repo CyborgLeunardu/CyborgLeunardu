@@ -12,10 +12,8 @@ Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família 
 
    🚀 Tecnologias que usamos:
    
-   <img src="/img/tecnologias/js.svg"/>  
-   <img src="/img/tecnologias/react.svg"/> 
-   <img src="/img/tecnologias/node.svg" width = 120px height = 60px/> 
-   <img src="/img/tecnologias/html.svg" width = 72px height = 72px/>  
+   <img src="/img/tecnologias/js.svg"/>  <img src="/img/tecnologias/react.svg"/> 
+   <img src="/img/tecnologias/node.svg" width = 120px height = 60px/> <img src="/img/tecnologias/html.svg" width = 72px height = 72px/>  
    <img src="/img/tecnologias/css.png" width = 65px height = 65px/> 
    <img src="/img/tecnologias/java.svg"/> 
    <img src="/img/tecnologias/spring.svg" /> 
@@ -28,8 +26,8 @@ Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família 
    <img src="/img/tecnologias/tomcat.svg"/> 
    <img src="/img/tecnologias/auth0.svg"/> 
    <img src="/img/tecnologias/amazon.svg"/> 
-   Back:Java, Lua, Shell Script, FreeSwitch, Spring/Rest
-   MySql, MariaBD e SQuirreL SQL Client
+   
+   Shell Script, FreeSwitch e SQuirreL SQL Client
  
  
  
@@ -37,7 +35,9 @@ Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família 
  
  
 
-
+<img src="/img/logo/missao.png" />
+<img src="/img/logo/visao.png" />
+<img src="/img/logo/valores.png" />
   Missão: Ser a melhor plataforma de comunicação global, atuando de forma abrangente no mercado nacional e internacional, para isso, nós desenvolvedores sempre estamos pensando em melhorar nosso sistema: implementandos novas funcionalidades, corrigindo bugs e sempre pensando na experiência do nosso usuário.
   
   Visão: Consruir o melhor sistema de Voip do mundo.
