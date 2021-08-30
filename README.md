@@ -17,13 +17,17 @@
 
    <h2 align="center" color="orange">🚀 Tecnologias que usamos</h2>
    
+   <br>
+   
    <img src="/img/tecnologias/js.svg"/>  <img src="/img/tecnologias/react.svg"/> <img src="/img/tecnologias/node.svg" width = 120px height = 60px/> 
    <img src="/img/tecnologias/css-html.svg" height = 54px /> <img src="/img/tecnologias/java.svg"/> 
    <img src="/img/tecnologias/spring.svg" /> <img src="/img/tecnologias/lua.svg" width = 65px height = 65px/> <img src="/img/tecnologias/mysql.svg" /> 
    <img src="/img/tecnologias/mariadb.svg"/> <img src="/img/tecnologias/eclipse.svg"/> <img src="/img/tecnologias/git.svg"/> 
    <img src="/img/tecnologias/postman.svg"/> <img src="/img/tecnologias/tomcat.svg"/> <img src="/img/tecnologias/auth0.svg"/> <img src="/img/tecnologias/amazon.svg"/> 
    
-    <br>
+   <br>
+   
+   
    
 
  
