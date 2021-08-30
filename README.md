@@ -54,7 +54,7 @@
 
 <h2 align="center">🚀 Redes Sociais </h2>
 
-  Fale conosco: 0800 878 3122
+  <h3 align="center">Fale conosco: 0800 878 3122</h3>
   <br> <br>
   
 
