@@ -19,12 +19,12 @@ Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família 
    <img src="/img/tecnologias/css.png" width = 65px height = 65px/> 
    <img src="/img/tecnologias/spring.svg" width = 65px height = 65px/> 
    <img src="/img/tecnologias/mysql.svg" width = 65px height = 65px/> 
-   <img src="/img/tecnologias/elipse.svg" width = 65px height = 65px/> 
+   <img src="/img/tecnologias/eclipse.svg" width = 65px height = 65px/> 
    <img src="/img/tecnologias/git.svg" width = 65px height = 65px/> 
    <img src="/img/tecnologias/postman.svg" width = 65px height = 65px/> 
    <img src="/img/tecnologias/tomcat.svg" width = 65px height = 65px/> 
-   <img src="/img/tecnologias/auth0.png" width = 65px height = 65px/> 
-   <img src="/img/tecnologias/amazon.png" width = 65px height = 65px/> 
+   <img src="/img/tecnologias/auth0.svg" width = 65px height = 65px/> 
+   <img src="/img/tecnologias/amazon.svg" width = 65px height = 65px/> 
    Back:Java, Lua, Shell Script, FreeSwitch, Spring/Rest
    MySql, MariaBD e SQuirreL SQL Client
  
