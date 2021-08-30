@@ -1,4 +1,4 @@
-<img src="/img/logos/logo-nvoip.png" width = 176px height = 80px/> Logo Dos Devs
+<img src="/img/logos/logo-nvoip.png" width = 128px height = 72px/> Logo Dos Devs
 
 
 ### Olá, bem vindos a álcateia! 
