@@ -1,7 +1,7 @@
 <div align="right"><img src="/img/logos/logo-nvoip.png" width = 188px height = 32px/>  <img src="/img/logos/logo-devs.png" width = 72px height = 72px/></div>
 
 
-### 
+
 <font color = "#f27435"><h1 align="center">Olá, sejam bem vindos a álcateia! </h1></font>
 
 <div align="center"><img src="https://i.gifer.com/origin/9a/9a7b5dd5f43671afb591e70370b1b5b1.gif"/></div>
@@ -43,7 +43,7 @@
 <h3>Valores</h3>
 <p>Dedicação, Respeito, Resiliência, Ética, Transparência e compromisso com a qualidade.</p>
 </div>
-🚀
+
 
 <h2 align="center">🚀 Redes Sociais </h2>
 
