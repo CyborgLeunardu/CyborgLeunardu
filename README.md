@@ -9,7 +9,7 @@
 <br>
 
 > Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família na Nvoip. Assim, juntos, temos mais força e habilidade de fazer códigos cada vez melhores e maiores, e é ai que reside o nosso poder! 
->
+
  <br>
   
 
@@ -56,7 +56,7 @@
 <h2 align="center">🚀 Redes Sociais </h2>
 
   Fale conosco: 0800 878 3122
-  <br>
+  <br> <br>
     <a href="https://www.nvoip.com.br/" background-color = "white"><img src="/img/redes-sociais/logo-nvoip-simples.png" width = 60px ></a>
     <a href="https://nvoip.docs.apiary.io/#"><img src="/img/redes-sociais/apiary.png" width = 60px ></a>
    <a href=""><img src="/img/redes-sociais/linkedin-logo.png" width = 60px ></a>
