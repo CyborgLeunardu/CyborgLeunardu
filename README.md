@@ -11,16 +11,6 @@
 > Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família na Nvoip. Assim, juntos, temos mais força e habilidade de fazer códigos cada vez melhores e maiores, e é ai que reside o nosso poder! 
 
  <br>
-  
-  img {
-
-
-
-
-
-}
-
-
 
    <h2 align="center" color="orange">🚀 Tecnologias que usamos</h2>
    
@@ -69,7 +59,7 @@
   
 
   
-   <div id="div-logos" align="center" display: inline; justify-content: center;>
+   <div id="div-logos" align="center" display: "inline-block">
    <a href="https://www.nvoip.com.br/" background-color = "white"><img src="/img/redes-sociais/logo-nvoip-simples.png" width = 60px heigth = 50px ></a>
    <a href="https://nvoip.docs.apiary.io/#"><img src="/img/redes-sociais/apiary.png" width = 60px heigth = 50px  ></a>
    <a href="https://www.linkedin.com/company/nvoip/mycompany/"><img src="/img/redes-sociais/linkedin-logo.png" width = 60px heigth = 50px  ></a>
