@@ -63,7 +63,7 @@
    <a href="https://www.nvoip.com.br/" background-color = "white"><img src="/img/redes-sociais/logo-nvoip-simples.png" width = 65px heigth = 50px ></a>
    <a href="https://nvoip.docs.apiary.io/#"><img src="/img/redes-sociais/apiary.png" width = 65px heigth = 50px  ></a>
    <a href="https://www.linkedin.com/company/nvoip/mycompany/"><img src="/img/redes-sociais/linkedin-logo.png" width = 65px heigth = 50px  ></a>
-   <a href="https://pt-br.facebook.com/nvoipcloud/"><img src="/img/redes-sociais/facebook-logo.png" width = 60px heigth = 50px   ></a>
-   <a href="https://www.instagram.com/nvoip/?hl=pt-br"><img src="/img/redes-sociais/instagram-logo.png" width = 60px  heigth = 50px  ></a>
+   <a href="https://pt-br.facebook.com/nvoipcloud/"><img src="/img/redes-sociais/facebook-logo.png" width = 55px heigth = 50px   ></a>
+   <a href="https://www.instagram.com/nvoip/?hl=pt-br"><img src="/img/redes-sociais/instagram-logo.png" width = 55px  heigth = 50px  ></a>
    <a href="https://www.youtube.com/channel/UC8uZS62vg1iXTXdzOGF7c8w"><img src="/img/redes-sociais/youtube-logo.png" width = 60px heigth = 50px ></a>
    </div>
