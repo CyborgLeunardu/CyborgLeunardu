@@ -26,9 +26,9 @@ Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família 
  
  
 
-<img src="/img/logo/missao.png" />
-<img src="/img/logo/visao.png" />
-<img src="/img/logo/valores.png" />
+<img src="/img/logos/missao.png" />
+<img src="/img/logos/visao.png" />
+<img src="/img/logos/valores.png" />
   Missão: Ser a melhor plataforma de comunicação global, atuando de forma abrangente no mercado nacional e internacional, para isso, nós desenvolvedores sempre estamos pensando em melhorar nosso sistema: implementandos novas funcionalidades, corrigindo bugs e sempre pensando na experiência do nosso usuário.
   
   Visão: Consruir o melhor sistema de Voip do mundo.
