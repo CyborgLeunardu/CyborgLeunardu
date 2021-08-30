@@ -1,4 +1,4 @@
-![Nvoip Logo](/img/logos/logo-nvoip.png), Logo Dos Devs
+![nvoip-logo](/img/logos/logo-nvoip.png), Logo Dos Devs
 
 
 ### Olá, bem vindos a álcateia! 
