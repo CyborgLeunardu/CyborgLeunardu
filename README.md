@@ -1,4 +1,4 @@
-![Nvoip Logo](CyborgLeunardu/img/logos/logo-nvoip.png), Logo Dos Devs
+![Nvoip Logo](/img/logos/logo-nvoip.png), Logo Dos Devs
 
 
 ### Olá, bem vindos a álcateia! 
