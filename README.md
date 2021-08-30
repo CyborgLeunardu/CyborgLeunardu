@@ -3,7 +3,7 @@
 
 ### Olá, bem vindos a álcateia! 
 
-https://static.wikia.nocookie.net/camphalfbloodroleplay/images/8/85/Sourcesgddg.gif/revision/latest/scale-to-width-down/500?cb=20180903194000
+![gif-alcateia](https://i.gifer.com/origin/9a/9a7b5dd5f43671afb591e70370b1b5b1.gif)
 Gif dos lobões.
 
 
