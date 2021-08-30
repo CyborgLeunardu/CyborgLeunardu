@@ -10,6 +10,8 @@
 
 > Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família na Nvoip. Assim, juntos, temos mais força e habilidade de fazer códigos cada vez melhores e maiores, e é ai que reside o nosso poder! 
 
+Venha fazer parte da nossa alcatéia você também: 
+
  <br>
 
    <h2 align="center" color="orange">🚀 Tecnologias que usamos</h2>
