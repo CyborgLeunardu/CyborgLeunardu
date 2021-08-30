@@ -13,7 +13,7 @@ Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família 
    🚀 Tecnologias que usamos:
    
    <img src="/img/tecnologias/js.svg"/>  <img src="/img/tecnologias/react.svg"/> <img src="/img/tecnologias/node.svg" width = 120px height = 60px/> 
-   <img src="/img/tecnologias/html.svg" width = 54px height = 54px/> <img src="/img/tecnologias/css.png" width = 50px height = 50px/> <img src="/img/tecnologias/java.svg"/> 
+   <img src="/img/tecnologias/css-html.svg" width = 54px height = 54px/> <img src="/img/tecnologias/java.svg"/> 
    <img src="/img/tecnologias/spring.svg" /> <img src="/img/tecnologias/lua.svg" width = 65px height = 65px/> <img src="/img/tecnologias/mysql.svg" /> 
    <img src="/img/tecnologias/mariadb.svg"/> <img src="/img/tecnologias/eclipse.svg"/> <img src="/img/tecnologias/git.svg"/> 
    <img src="/img/tecnologias/postman.svg"/> <img src="/img/tecnologias/tomcat.svg"/> <img src="/img/tecnologias/auth0.svg"/> <img src="/img/tecnologias/amazon.svg"/> 
