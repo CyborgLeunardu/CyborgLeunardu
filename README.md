@@ -52,7 +52,7 @@
     <a href="https://www.nvoip.com.br/" background-color = "white"><img src="/img/redes-sociais/logo-nvoip-simples.png" width = 60px ></a>
     <a href="https://nvoip.docs.apiary.io/#"><img src="/img/redes-sociais/apiary.png" width = 60px ></a>
    <a href=""><img src="/img/redes-sociais/linkedin-logo.png" width = 60px ></a>
-   <a href=""><img src="/img/redes-sociais/facebook-logo.png" width = 80px height=60px></a>
-   <a href=""><img src="/img/redes-sociais/instagram-logo.png" width = 80px height=60px></a>
+   <a href=""><img src="/img/redes-sociais/facebook-logo.png" width = 60px height=60px></a>
+   <a href=""><img src="/img/redes-sociais/instagram-logo.png" width = 60px height=60px></a>
    <a href=""><img src="/img/redes-sociais/youtube-logo.png" width = 60px></a>
 
