@@ -28,14 +28,16 @@
  
 
 <img src="/img/logos/missao.png" height = 84px/>
-<img src="/img/logos/visao.png" height = 84px />
-<img src="/img/logos/valores.png" height = 84px />
-  Missão: Ser a melhor plataforma de comunicação global, atuando de forma abrangente no mercado nacional e internacional, para isso, nós desenvolvedores sempre estamos pensando em melhorar nosso sistema: implementandos novas funcionalidades, corrigindo bugs e sempre pensando na experiência do nosso usuário.
-  
-  Visão: Consruir o melhor sistema de Voip do mundo.
+<h3>Missão</h3>
+<p>Ser a melhor plataforma de comunicação global, atuando de forma abrangente no mercado nacional e internacional, para isso, nós desenvolvedores sempre estamos pensando em melhorar nosso sistema: implementandos novas funcionalidades, corrigindo bugs e sempre pensando na experiência do nosso usuário.</p>
 
-  Valores da empresa e da alcáteia: Dedicação, Respeito, Resiliência, Ética, Transparência e compromisso com a qualidade.
-  Ou Transparência, ética e compromisso com a qualidade
+<img src="/img/logos/visao.png" height = 84px />
+<h3>Visão</h3>
+<p>Consruir o melhor sistema de Voip do mundo.</p>
+
+<img src="/img/logos/valores.png" height = 84px />
+<h3>Valores</h3>
+<p>Dedicação, Respeito, Resiliência, Ética, Transparência e compromisso com a qualidade.</p>
 
 🚀
 
