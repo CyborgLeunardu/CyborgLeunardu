@@ -4,8 +4,6 @@
 ### Olá, bem vindos a álcateia! 
 
 ![gif-alcateia](https://i.gifer.com/origin/9a/9a7b5dd5f43671afb591e70370b1b5b1.gif)
-Gif dos lobões.
-
 
 Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família na Nvoip. Assim, juntos, temos mais força e habilidade de fazer códigos cada vez melhores e maiores, e é ai que reside o nosso poder! 
 
@@ -13,7 +11,9 @@ Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família 
 
 
    🚀 Tecnologias que usamos:
-   Front-end: JavaScript,ReactJs,HTML5 e Css
+   
+   Front-end: JavaScript,ReactJs,HTML5 e Css  <img src="/img/logos/js.png" width = 72px height = 72px/>  <img src="/img/logos/react.png" width = 72px height = 72px/> 
+   <img src="/img/logos/html.png" width = 72px height = 72px/>  <img src="/img/logos/css.png" width = 72px height = 72px/> 
    Back:Java, Lua, Shell Script, FreeSwitch, Spring/Rest
    MySql, MariaBD e SQuirreL SQL Client
  
