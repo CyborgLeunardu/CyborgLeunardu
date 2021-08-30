@@ -19,7 +19,9 @@ Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família 
    <img src="/img/tecnologias/css.png" width = 65px height = 65px/> 
    <img src="/img/tecnologias/java.svg"/> 
    <img src="/img/tecnologias/spring.svg" /> 
+   <img src="/img/tecnologias/lua.svg" />
    <img src="/img/tecnologias/mysql.svg" /> 
+   <img src="/img/tecnologias/mariadb.svg" />
    <img src="/img/tecnologias/eclipse.svg"/> 
    <img src="/img/tecnologias/git.svg"/> 
    <img src="/img/tecnologias/postman.svg"/> 
