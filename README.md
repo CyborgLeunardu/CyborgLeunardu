@@ -16,7 +16,7 @@ Venha fazer parte da nossa alcatéia você também: https://nvoip.solides.jobs/)
 ```
  <br>
    ``css 
-   <h2 align="center" style={color="orange"}>🚀 !Tecnologias que usamos</h2>
+   <h2 align="center" style="color:Tomato;">🚀 !Tecnologias que usamos</h2>
    `` ``
    <br>
    
