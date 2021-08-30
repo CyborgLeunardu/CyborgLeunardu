@@ -11,7 +11,7 @@
 
 
 
-   <h2>🚀 Tecnologias que usamos</h2>
+   <h2 align="center">🚀 Tecnologias que usamos</h2>
    
    <img src="/img/tecnologias/js.svg"/>  <img src="/img/tecnologias/react.svg"/> <img src="/img/tecnologias/node.svg" width = 120px height = 60px/> 
    <img src="/img/tecnologias/css-html.svg" height = 54px /> <img src="/img/tecnologias/java.svg"/> 
