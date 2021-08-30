@@ -9,7 +9,9 @@
 <br>
 
 > Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família na Nvoip. Assim, juntos, temos mais força e habilidade de fazer códigos cada vez melhores e maiores, e é ai que reside o nosso poder! 
-
+>
+ <br>
+  
 
 
 
@@ -21,11 +23,14 @@
    <img src="/img/tecnologias/mariadb.svg"/> <img src="/img/tecnologias/eclipse.svg"/> <img src="/img/tecnologias/git.svg"/> 
    <img src="/img/tecnologias/postman.svg"/> <img src="/img/tecnologias/tomcat.svg"/> <img src="/img/tecnologias/auth0.svg"/> <img src="/img/tecnologias/amazon.svg"/> 
    
+    <br>
+   
 
  
  
  
  <h2 align="center">🚀 Sobre Nós </h2>
+  <br>
  
  
 <div align="center">
@@ -46,6 +51,7 @@
 <p>Dedicação, Respeito, Resiliência, Ética, Transparência e compromisso com a qualidade.</p>
 </div>
 
+ <br>
 
 <h2 align="center">🚀 Redes Sociais </h2>
 
