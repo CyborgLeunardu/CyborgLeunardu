@@ -11,7 +11,8 @@
 > Tais como os lobos, o nosso time de Devs vivem em uma alcáteia, nossa família na Nvoip. Assim, juntos, temos mais força e habilidade de fazer códigos cada vez melhores e maiores, e é ai que reside o nosso poder! 
 
 Está faminto por novos desafios? Gosta de programação? A alcatéia está sempre preparada para receber novos membros para irmos a caça!
-<h4> Venha fazer parte da nossa alcatéia você também: https://nvoip.solides.jobs/ </h4>
+<h4 align="center"> Venha fazer parte da nossa alcatéia você também: </h4>
+<a align="center" href="  https://nvoip.solides.jobs/"> <img src="/img/redes-sociais/junte-se.png" height = 50px ></a>
 
  <br>
 
@@ -26,7 +27,7 @@ Está faminto por novos desafios? Gosta de programação? A alcatéia está semp
    <img src="/img/tecnologias/spring.svg" /> <img src="/img/tecnologias/lua.svg" width = 65px height = 65px/> <img src="/img/tecnologias/mysql.svg" /> 
    <img src="/img/tecnologias/mariadb.svg"/> <img src="/img/tecnologias/eclipse.svg"/> <img src="/img/tecnologias/git.svg"/> 
    <img src="/img/tecnologias/postman.svg"/> <img src="/img/tecnologias/tomcat.svg"/> <img src="/img/tecnologias/auth0.svg"/> <img src="/img/tecnologias/amazon.svg"/> 
-   </div>
+   </div>                                       
    <br>
     
  
