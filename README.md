@@ -51,7 +51,7 @@ Está faminto por novos desafios? Gosta de programação? A alcatéia está semp
 <div align="center">
 <img src="/img/logos/visao.png" height = 84px />
 <h3>Visão</h3>
-<p>Consruir o melhor sistema de Voip do mundo.</p>
+<p>Nos próximos 2 anos, se tornar a maior referência em plataforma de comunicação no Brasil, construindo o melhor sistema de Voip do mundo.</p>
 </div>
 <br><br>
    
