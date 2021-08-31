@@ -65,10 +65,10 @@ Está faminto por novos desafios? Gosta de programação? A alcatéia está semp
 
   
    <div id="div-logos" align="center" display: "inline-block">
-   <a href="https://www.nvoip.com.br/"> <img src="/img/redes-sociais/nvoip-3" heigth = 50px ></a>
-   <a href="https://nvoip.docs.apiary.io/#"><img src="/img/redes-sociais/apiary-logo.png" width = 8% heigth = 20%   ></a>
-   <a href="https://www.linkedin.com/company/nvoip/mycompany/"><img src="/img/redes-sociais/linkedin-logo.png"  heigth = 80px  ></a>
-   <a href="https://pt-br.facebook.com/nvoipcloud/"><img src="/img/redes-sociais/facebook-logo.png" width = 8% heigth = 50px   ></a>
-   <a href="https://www.instagram.com/nvoip/?hl=pt-br"><img src="/img/redes-sociais/instagram-logo.png" width = 8%  heigth = 50px  ></a>
-   <a href="https://www.youtube.com/channel/UC8uZS62vg1iXTXdzOGF7c8w"><img src="/img/redes-sociais/youtube-logo.png" width = 8%  heigth = 50px ></a>
+   <a href="https://www.nvoip.com.br/"> <img src="/img/redes-sociais/nvoip-3.png" height = 50px ></a>
+   <a href="https://nvoip.docs.apiary.io/#"><img src="/img/redes-sociais/apiary2.png" height = 60px   ></a>
+   <a href="https://www.linkedin.com/company/nvoip/mycompany/"><img src="/img/redes-sociais/linkedin-logo.png"  height = 80px  ></a>
+   <a href="https://pt-br.facebook.com/nvoipcloud/"><img src="/img/redes-sociais/facebook-logo.png" width = 8% height = 50px   ></a>
+   <a href="https://www.instagram.com/nvoip/?hl=pt-br"><img src="/img/redes-sociais/instagram-logo.png" width = 8%  height = 50px  ></a>
+   <a href="https://www.youtube.com/channel/UC8uZS62vg1iXTXdzOGF7c8w"><img src="/img/redes-sociais/youtube-logo.png"  height = 50px ></a>
    </div>
