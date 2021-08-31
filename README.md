@@ -16,7 +16,7 @@
 Está faminto por novos desafios? Gosta de programação? A alcatéia está sempre preparada para receber novos membros para irmos a caça!
 <div align="center">
 <h4> Venha fazer parte da nossa alcatéia você também: </h4>
-<a href="https://nvoip.solides.jobs/" target="_blank"> <img src="/img/redes-sociais/junte-se.png" height = 50px ></a>
+<a href="https://nvoip.solides.jobs/"  target="_blank"> <img src="/img/redes-sociais/junte-se.png" height = 50px ></a>
 </div>
 
  <br>
