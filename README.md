@@ -4,7 +4,7 @@
 
 
 
-<font color = "#f27435"><h1 align="center"> Olá, sejam bem vindos a alcatéia! ÁUUUUUUUUUUUUUUUUUUUU </h1></font>
+<font color = "#f27435"><h1 align="center"> Olá, sejam bem vindos a alcatéia! ÁUUUUUU </h1></font>
 
 <div align="center"><img src="https://i.gifer.com/origin/9a/9a7b5dd5f43671afb591e70370b1b5b1.gif"/></div>
 <br>
