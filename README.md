@@ -8,7 +8,7 @@ Atualmente minha principal área de interesse é o **Desenvolvimento Front-End**
 
 ##
 
-Tecnolias que gosto e utilizo no meu dia a dia:
+**Tecnologias** que gosto e utilizo no meu dia a dia:
 <div> 
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
