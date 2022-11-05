@@ -1,4 +1,4 @@
-## Oiii eu sou a Léo!
+## Olá, eu sou a Léo!
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CyborgLeunardu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,5 +15,7 @@
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   ##
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
  
