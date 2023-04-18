@@ -3,7 +3,7 @@
 ### Olá, navegante!
 
 Eu sou um jovem desenvolvedor em busca de **conhecimento e experiência**! 
-Atualmente minha principal área de interesse é o **Desenvolvimento Front-End** e **Ciência de Dados**
+Atualmente tenho interessem em me aperfeiçoar seja no **Desenvolvimento Front-End** ou **Desenvolvimento Back-End**.
 
 
 ##
